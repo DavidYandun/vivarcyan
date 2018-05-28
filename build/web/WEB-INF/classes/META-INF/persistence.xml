@@ -6,10 +6,10 @@
     <class>vivarcyan.model.entities.Facultad</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://arcvivyansvr.mysql.database.azure.com:3306/carlitos?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://arcvivyansvr.mysql.database.azure.com:3306/juanbdd?zeroDateTimeBehavior=convertToNull"/>
       <property name="javax.persistence.jdbc.user" value="david@arcvivyansvr"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="a12345678A"/>
+      <property name="javax.persistence.jdbc.password" value="ch0c0latE"/>
     </properties>
   </persistence-unit>
 </persistence>
